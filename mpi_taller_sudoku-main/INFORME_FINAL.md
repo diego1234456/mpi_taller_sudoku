@@ -1,4 +1,4 @@
-# Informe de resultados Taller Sudoku
+# Informe de resultados Taller Sudoku MPI
 
 Completa este informe después de implementar las tres tareas MPI. Ejecuta las comparaciones con el mismo archivo `seeds.txt`, en el equipo y con el contenedor del taller.
 
