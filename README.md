@@ -1,0 +1,1 @@
+Todo lo relacionado a análisis de tiempos y el informe se encuentra en el README llamado INFORME_FINAL, y para ejecutar cada tarea los comandos e instrucciones se encuentran en los README de cada carpeta
