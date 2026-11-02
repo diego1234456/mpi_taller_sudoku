@@ -5,9 +5,10 @@ Completa este informe después de implementar las tres tareas MPI. Ejecuta las c
 ## Entorno
 
 * **Equipo:** Windows 10 (con contenedor Docker)
-* **Versión del contenedor:** augustosalazar/slim-mpi:2[cite: 2]
+* **Versión del contenedor:** augustosalazar/slim-mpi:2
 * **Cantidad de repeticiones por medición:** 3
-* **Valor común de N elegido:** 4
+* **Valor común de N elegido:** 4.
+* Tras realizar la comprobación previa utilizando el código y comando que nos dieron , se determinó que $N = 4$ es el valor óptimo para equilibrar el paralelismo, en el archivo Word están las imágenes de todas las pruebas realizadas.
 
 ## Comparación final con el mismo N
 
