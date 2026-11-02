@@ -1,1 +1,0 @@
-# mpi_taller_sudoku
