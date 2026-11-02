@@ -11,7 +11,7 @@ Registra el tiempo total de ejecución y confirma que se procesaron los 30 IDs. 
 Estrategia que reparte los IDs de los 30 tableros de forma equitativa entre los procesos disponibles para procesar lotes completos de manera independiente.
 
 ## Instrucciones de Ejecución
-Ejecuta la implementación con el contenedor Docker utilizando el siguiente comando en PowerShell:
+Para ejecutar esta tarea se utilizó el siguiente comando en PowerShell:
 
 ```powershell
 docker run --rm -v "${PWD}:/app" augustosalazar/slim-mpi:2 mpiexec -n 4 --allow-run-as-root --use-hwthread-cpus --oversubscribe python /app/mpi_por_tableros/resolver_tableros.py
